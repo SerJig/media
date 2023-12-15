@@ -1,0 +1,1 @@
+start /b curl -L -o playlist/1.mp3  "https://drive.google.com/uc?export=download&id=1EjcxlbnjpHahPgOPbZ8zDXVhXOdr_d8Y"
